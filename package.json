@@ -1,6 +1,7 @@
 {
   "name": "ecommerce-app",
   "version": "0.1.0",
+  "homepage": "https://yking-ly.github.io/madexp10/public/index.html",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.14.0",
